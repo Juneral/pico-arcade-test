@@ -2,7 +2,7 @@
     "name": "pico",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "core": "*"
     },
     "files": [
         "test.cpp",
