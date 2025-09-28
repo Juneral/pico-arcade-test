@@ -1,0 +1,23 @@
+{
+    "name": "pico",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "test.cpp",
+        "test.ts",
+        "main.blocks",
+        "main.ts",
+        "assets.json",
+        "main.py"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.57",
+        "tag": "v2.0.57",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/47c11829118fdfbdaeb496fd66401a18df7b226c",
+        "target": "2.0.57",
+        "pxt": "11.3.61"
+    },
+    "preferredEditor": "tsprj"
+}
