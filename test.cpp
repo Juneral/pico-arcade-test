@@ -8,8 +8,9 @@ namespace elfshield {
     void singleLEDSet(uint8_t isOn)
     {
         auto p = LOOKUP_PIN(P_8);
-        rstp->setDigitalValue(isOn);
+        p->setDigitalValue(isOn);
         
     }
+
 
 }
