@@ -7,10 +7,11 @@ namespace elfshield {
     //%
     void singleLEDSet(uint8_t isOn)
     {
-        auto p = LOOKUP_PIN(P_8);
+        auto p = LOOKUP_PIN(PIN_JACK_SND);
         p->setDigitalValue(isOn);
         
     }
 
 
 }
+
