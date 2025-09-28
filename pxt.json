@@ -6,7 +6,9 @@
     },
     "files": [
         "test.cpp",
-        "test.ts"
+        "test.ts",
+        "shims.d.ts",
+        "enums.d.ts"
     ],
     "public": true,
     "targetVersions": {
