@@ -2,6 +2,7 @@
     "name": "pico",
     "description": "",
     "dependencies": {
+        "base": "*",
         "core": "*"
     },
     "files": [
