@@ -14,8 +14,9 @@ namespace test {
     //% weight=22
     //% blockGap=10
     //% shim=elfshield::singleLEDSet
-    export function singleLEDSet(isOn: number): void {
+    export function singleLEDSet(isOn: swStatus): void {
         return;
     }
 
 }
+
