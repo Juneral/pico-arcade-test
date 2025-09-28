@@ -3,7 +3,7 @@
     "description": "",
     "dependencies": {
         "base": "*",
-        "core": "*"
+        "core---rp2040": "*"
     },
     "files": [
         "test.cpp",
