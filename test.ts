@@ -10,14 +10,15 @@ namespace elfshield {
     /**
      * Single LED set Light
     */
-    //% blockId="ELF_Display_singleLEDSet" block="Single LED set |%swStatus"
+    //% blockId="ELF_Display_singleLEDSet" 
     //% weight=22
     //% blockGap=10
     //% shim=elfshield::singleLEDSet
-    export function singleLEDSet(isOn: swStatus): void {
+    export function singleLEDSet(nane: isOn: swStatus): void {
         return;
     }
 
 }
+
 
 
