@@ -10,7 +10,7 @@ namespace elfshield {
     /**
      * Single LED set Light
     // */
-   //% blockId="ELF_Display_singleLEDSet" block="Single LED|%pinNum| set |%swStatus"
+   //% blockId="ELF_Display_singleLEDSet"
     //% weight=22
     //% blockGap=10
     //% shim=elfshield::singleLEDSet
@@ -19,6 +19,7 @@ namespace elfshield {
     }
 
 }
+
 
 
 
